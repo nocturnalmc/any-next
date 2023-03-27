@@ -30,3 +30,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# local stuff
+/data/sekolah.json
+/data/pelajar.json
