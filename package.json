@@ -8,6 +8,16 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nocturnalmc/any-next.git"
+  },
+  "author": "",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/nocturnalmc/any-next/issues"
+  },
+  "homepage": "https://github.com/nocturnalmc/any-next#readme",
   "dependencies": {
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
